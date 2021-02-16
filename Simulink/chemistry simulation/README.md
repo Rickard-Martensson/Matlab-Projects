@@ -1,6 +1,6 @@
 # Matlab-Projects
 
-![preview](Simulink\chemistry simulation\preview.png)
+![preview](preview.png)
 
 This neat little program will simulate a chemical reaction with the mysteriuos chemicals A, B, and C
 
